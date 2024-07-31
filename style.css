@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+}
+.bada{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: bisque;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    border: 5px solid rgb(219, 177, 177);
+    height: 150px;
+    width: 500px;
+    border-radius: 20px;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.clock{
+    color: rgb(223, 186, 139);
+    font-size: 90px;
+
+}
